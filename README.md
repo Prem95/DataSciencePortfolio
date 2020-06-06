@@ -34,4 +34,4 @@ Collaborative Filtering, Matrix Factorization, Support Vector Machines (SVM)
 
 ### Deployment
 
- - All the files above can be run using Google Colab with GPU runtime. This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+ - All the files above can be run using Google Colab with GPU runtime. This project is licensed under the MIT License.
